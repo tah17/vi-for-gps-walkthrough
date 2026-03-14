@@ -22,7 +22,7 @@ conda env create -f environment.yml
 ```
 
 ## Usage
-The [`01_classical_gpr.ipynb`](#01_classical_gpr.ipynb) notebook is intended to be used first and contains the walkthrough on classical GP regression (GPR), which is included as a refresher on classical fitting of GP models. Next, the [`02_vi_gp.ipynb`](#02_vi_gp.ipynb) notebook should be used and this contains the quick walkthrough of fitting GPs using VI in `GPflow`.
+The [`01_classical_gpr.ipynb`](01_classical_gpr.ipynb) notebook is intended to be used first and contains the walkthrough on classical GP regression (GPR), which is included as a refresher on classical fitting of GP models. Next, the [`02_vi_gp.ipynb`](02_vi_gp.ipynb) notebook should be used and this contains the quick walkthrough of fitting GPs using VI in `GPflow`.
 
 ## License
 Licensed under the MIT license. See [LICENSE](LICENSE) for more information.
